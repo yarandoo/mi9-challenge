@@ -1,0 +1,33 @@
+{
+  "name": "Mi9-Challenge-EW",
+  "version": "0.1.4",
+  "description": "A solution for Mi9-Challenge: http://mi9-coding-challenge.herokuapp.com/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+	"test": "mocha test"
+  },
+  "dependencies": {
+	"express": "~4.9.x",
+	"body-parser":"~1.8.1",
+	"http-status":"*"	
+  },
+  "devDependencies":{
+	"mocha": "*",
+	"should": ">= 0.0.1",
+	"supertest":"*"	
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yarandoo/mi9-challenge"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Mi9 Challenge - Esteban Wagner",
+  "description": "Solution to Mi9 Challenge as stated in: http://mi9-coding-challenge.herokuapp.com/",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "mi9", , "mi9 challenge"]
+}
